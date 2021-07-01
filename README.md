@@ -1,0 +1,2 @@
+# getdevicedetails
+blah
